@@ -39,3 +39,22 @@ print(carros)
 #elimina o elemento pelo valor
 carros.remove('n')
 print(carros)
+
+#coloca os itens em ordem alfabética
+carros.sort()
+print(carros)
+
+#coloca os itens em ordem alfabética inversa
+carros.sort(reverse=True)
+print(carros)
+
+#coloca em ordem alfabética sem alterar o conteúdo original da lista
+print(sorted(carros))
+print(carros)
+
+#tamanho da lista
+print(len(carros))
+
+#inverte a ordem dos itens, independente da ordem alfabética
+carros.reverse()
+print(carros)
