@@ -8,7 +8,7 @@ exponencial = 3 ** 2
 
 print("Olá, eu tenho " + str(33) + ", e você?")
 idade = input("Digite a sua idade: ")
-print("Eu tenho: " + idade + '\n')
+print("Eu tenho: " + idade + ' anos \n')
 
 print(soma)
 print(subtracao)
