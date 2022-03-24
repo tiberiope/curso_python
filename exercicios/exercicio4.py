@@ -1,4 +1,4 @@
-from exercicio3a import soma, div_resto
+from curso_python.exercicios.exercicio3a import soma, div_resto
 escolha = input("Escolha P para par ou I para impar: ")
 a = int(input("Escolha o primeiro valor: "))
 b = int(input("Escolha o segundo valor: "))
