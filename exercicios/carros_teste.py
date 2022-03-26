@@ -2,7 +2,6 @@
 #Ou: from carros import *
 from carros import Carros, CarrosEletricos
 
-
 #Ou: meu_carro1 = carros.Carros('ferrari', 'M50', 2016)
 meu_carro1 = Carros('ferrari', 'M50', 2016)
 meu_carro1.carro_descricao()
